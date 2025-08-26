@@ -72,7 +72,7 @@
 
 <h2><Strong> How To Build :</Strong></h2>
 <ol>
-    <li>Pull Git Repository (https://github.com/fadlannn69/Quantus.git)</li>
+    <li>Clone Git Repository (git clone https://github.com/fadlannn69/Quantus.git)</li>
     <li>Install Python3 , PostgreSQL ,and DBeaver(Optional)</li>
     <li>Install uv library (pip install uv)</li>
     <li>Create Virtual Environment (python3 -m venv myvenv)</li>
