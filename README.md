@@ -1,16 +1,16 @@
 <!-- Warning :: Using CTRL + SHIFT + V For View README.md In Visual Studio Code :: Warning-->
 <h1 align="center">Backend Journal Application With FastAPI Framework</Strong></h1>
 
-<center>
+<p align="center">
 <img src="Pic/Swagger.png" alt="Contoh Gambar" style="border-radius: 10px;" width="500" height="400"/>
 <br>
 <img src="Pic/Schema.png" alt="Contoh Gambar" style="border-radius: 10px;" width="300" height="400"/>
-</Center>
+</p>
 
 <br>
 <hr>
 
-<h2><Strong> Tech-Stack : </Strong></h2>
+<h2 align="center"><strong> Tech-Stack : </strong></h2>
 <ul>
     <li>FastAPI-Python</li>
     <li>PostgreSQL (DATABASES)</li>
@@ -24,7 +24,7 @@
 <br>
 <hr>
 
-<h2><Strong> Endpoints : </Strong></h2>
+<h2 align="center"><Strong> Endpoints : </Strong></h2>
 <h4> User Endpoints : </h4>
 <ul>
     <li>/user/Register</li>
@@ -56,7 +56,7 @@
 <br>
 <hr>
 
-<h2><Strong> Features : </Strong></h2>
+<h2 align="center"><Strong> Features : </Strong></h2>
 <ul>
     <li>Security And Authentication</li>
     <Strong> => Using Argon2 For Hashing Password (standard Password Hashing), JWT Token With Signature ES256 Algorythm (The Best Curve Ellipsis) </Strong>
@@ -70,7 +70,7 @@
 <br>
 <hr>
 
-<h2><Strong> How To Build :</Strong></h2>
+<h2 align="center"><Strong> How To Build :</Strong></h2>
 <ol>
     <li>Clone Git Repository (git clone https://github.com/fadlannn69/Quantus.git)</li>
     <li>Install Python3 , PostgreSQL ,and DBeaver(Optional)</li>
@@ -95,7 +95,7 @@
 <br>
 <hr>
 
-<h2><Strong> How To Access After Server Running :</Strong></h2>
+<h2 align="center"><Strong> How To Access After Server Running :</Strong></h2>
 <ol>
     <li>Access Browser e.g. librewolf , brave , or firefox</li>
     <li>Click Localhost Url From Command Prompt </li>
@@ -111,10 +111,18 @@
 <br>
 <hr>
 
-<h2><Strong> TESTING RESULTS :</Strong></h2>
+<h2 align="center"><Strong> TESTING RESULTS :</Strong></h2>
 <h3>Test Content Endpoints: </h3>
+<p align="center">
     <img src="Pic/tesContent.png" alt="Contoh Gambar" style="border-radius: 10px;" width="700" height="350"/>
+</p>
 <hr>
 <h3>Test User Endpoints : </h3>
+<p alig="center">
     <img src="Pic/tesUser.png" alt="Contoh Gambar" style="border-radius: 10px;" width="700" height="250"/>
+</p>
 
+<hr>
+
+## © 2026 Rivaldi Fadlan
+All rights reserved. Unauthorized use, copying, modification, or distribution without permission is strictly prohibited.
